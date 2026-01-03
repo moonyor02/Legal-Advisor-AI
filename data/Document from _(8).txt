@@ -1,0 +1,21 @@
+Title: Allottee Title Enforcement (Gauhati High Court, 2025)
+
+[JUDICIAL DATA: 2025 PRECEDENT — LAND PASSBOOK]
+
+Case Name: Allottee Holds Right & Title over Land After Land Passbook Issued by Govt Court: Gauhati High Court (Single Bench: Justice Anjan Moni Kalita) Decision Date: December 5, 2025
+
+1. Facts of the Case: An allottee was granted government land, and a Land Pass-Book was subsequently issued by the competent authority. A dispute arose when a third party (appellant) claimed the allottee had no proprietary title and that the pass-book was merely a tax/revenue record.
+
+2. Key Judicial Ruling:
+
+Substantive Title: The Court ruled that a Land Pass-Book issued after an approved transfer reflects the allottee's legal right and title over the land.
+
+Not Just Revenue: Justice Kalita observed that such a pass-book is not merely for payment of revenue or a fiscal record; it carries substantive legal consequences for government-allotted land.
+
+Continuity of Title: The allottee continues to hold the right and title until the allotment is formally cancelled or withdrawn by the competent authority.
+
+3. Application for AI Tool:
+
+Defense Logic: If a user possesses a "Land Pass-Book," the AI should treat this as prima facie evidence of title.
+
+Encroachment Protection: The AI should advise that an allottee with a pass-book is protected from being treated as a "simple encroacher" and has the right to seek a court stay against summary eviction.

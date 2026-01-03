@@ -1,0 +1,40 @@
+For your AI project on legal frameworks and conflicts in the Bodoland Territorial Region (BTR), this finalized and corrected text provides the necessary precision for the Forest Rights Act (FRA), 2006, specifically tied to the 2025 Kokrajhar Paglijhora dispute.
+
+File 10: LAW_10_FRA_2006_KOKRAJHAR_CASE.txt
+Title: The Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006 (FRA)
+
+Description: The FRA is a central legislation that recognizes the pre-existing rights of forest-dwelling Scheduled Tribes (STs) and Other Traditional Forest Dwellers (OTFDs). It rectifies "historical injustice" by providing legal titles to land occupied prior to December 13, 2005. In the BTR context, it serves as a critical shield against land diversion for industrial projects without local consent.
+
+
+
+Key Statutory Provisions (Corrected for RAG)
+Section 3(1) — Scope of Forest Rights:
+
+Individual Rights: Right to live in and cultivate forest land (max 4 hectares).
+
+Community Rights: Right to collect and sell Minor Forest Produce (MFP), and right to protect/manage community forest resources.
+
+Developmental Rights: Section 3(2) allows the government to divert forest land (under 1 hectare) for 13 specific public facilities (e.g., schools, health centers) ONLY with Gram Sabha approval.
+
+Section 4(5) — Prohibition of Eviction:
+
+"No member of a forest dwelling Scheduled Tribe or other traditional forest dweller shall be evicted or removed from forest land under his occupation till the recognition and verification procedure is complete."
+
+Section 5 — Power of Gram Sabha: Empowers the Gram Sabha to stop any activity which adversely affects the wild animals, forest, and the biodiversity of the local area.
+
+Case Study: Paglijhora Forest Land Dispute (2025)
+Conflict Title: Violation of FRA Consent in Land Handover for Kokrajhar Thermal Power Project.
+
+Facts of the Case: In April 2025, the BTC administration issued administrative order No. BTC/LR/803/2025/18, handing over nearly 3,400 bighas of land in the Paglijhora Protected Reserved Forest (Parbatjhora Division) to the Adani Group/APDCL for an industrial power project.
+
+The Breach: In early 2025, the government had already recognized the rights of indigenous villagers in Paglijhora and Dukisukijhar over ~280 hectares of this land.
+
+The Conflict: The transfer happened via administrative order without the mandatory Stage-II Forest Clearance and without obtaining the Free Prior Informed Consent (FPIC) from the Gram Sabhas as required under the FRA and Forest (Conservation) Rules.
+
+Legal Issues:
+
+Administrative Supremacy vs. Statute: Whether a BTC letter (BTC/LR/803) can bypass the statutory requirement of Gram Sabha consent under Sections 4 & 5 of the FRA.
+
+Land Reclassification: Whether "Forest Villages" recognized in 2025 can be immediately diverted for "Non-Forest Use" (Industrial) without completing the legal settlement process.
+
+Current Outcome (Late 2025): The project faces a legal deadlock. Community groups (BDF, AATSU) have cited the Supreme Court’s 2025 directive (In re: T.N. Godavarman), which mandates that any forest land allotted to private entities after 1996 without Central Government approval is unsustainable in law.

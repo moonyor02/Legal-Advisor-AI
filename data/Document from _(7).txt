@@ -1,0 +1,29 @@
+Title: The Limitation Act, 1963 (Statutory Provisions for Land)
+
+[KLLA DATASET: STATUTORY LAW — PROPERTY LIMITATION]
+
+1. THE SCHEDULE: LIMITATION PERIODS FOR IMMOVABLE PROPERTY
+
+Article 64 (Suit based on Possession): > - Period: 12 Years.
+
+Condition: For possession of immovable property based on previous possession and not on title.
+
+Time Begins: From the date of dispossession.
+
+Article 65 (Suit based on Title): > - Period: 12 Years.
+
+Condition: For possession of immovable property or any interest therein based on title.
+
+Time Begins: When the possession of the defendant becomes adverse (hostile) to the plaintiff.
+
+2. SECTION 27: EXTINGUISHMENT OF RIGHT TO PROPERTY
+
+Effect: At the determination of the period limited to any person for instituting a suit for possession of any property, his right to such property shall be extinguished.
+
+Significance: This is a rare provision where the law doesn't just block the court case, it actually "kills" the legal ownership right if the owner is negligent for 12 years.
+
+3. KEY DEFINITIONS (Section 2)
+
+Prescribed Period: The period of limitation computed in accordance with the provisions of this Act.
+
+Applicant: Includes a petitioner or any person through whom the applicant derives their right to apply.
