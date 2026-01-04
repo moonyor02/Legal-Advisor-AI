@@ -1,6 +1,6 @@
 import os
 # 1. Setup - Paste your API Key here
-os.environ["GOOGLE_API_KEY"] = "AIzaSyAGLCJ_VZRiepn6iUv8MxCKu5WXn4u9whc"
+os.environ["GOOGLE_API_KEY"] = "PASTE YOUR API KEY"
 
 # Import necessary libraries
 from langchain_community.document_loaders import DirectoryLoader, TextLoader

@@ -3,7 +3,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmb
 from langchain_chroma import Chroma
 
 # --- SETUP ---
-os.environ["GOOGLE_API_KEY"] = "AIzaSyAGLCJ_VZRiepn6iUv8MxCKu5WXn4u9whc"
+os.environ["GOOGLE_API_KEY"] = "PASTE YOUR API KEY"
 
 def start_legal_chat():
     # 1. INITIALIZE DATABASE CONNECTION
