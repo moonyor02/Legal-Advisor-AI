@@ -80,3 +80,27 @@ def start_legal_chat():
 
 if __name__ == "__main__":
     start_legal_chat()
+# ... (All your previous code remains above) ...
+
+# --- TESTING BLOCK ---
+# This only runs if you type 'python3 ask_lawyer.py' in the terminal.
+if __name__ == "__main__":
+    print("--- 🧪 BACKEND TESTING MODE ---")
+    print("Type 'quit' to stop.")
+    
+    # Fake history for testing
+    test_history = []
+    
+    while True:
+        user_in = input("\nYou: ")
+        if user_in.lower() in ["quit", "exit"]:
+            break
+            
+        # Call the function just like Streamlit would
+        response = get_chat_response(user_in, test_history)
+        
+        print(f"AI: {response}")
+        
+        # Update fake history so context works during test
+        test_history.append(f"user: {user_in}")
+        test_history.append(f"assistant: {response}")
