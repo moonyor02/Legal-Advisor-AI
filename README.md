@@ -1,4 +1,4 @@
-# Legal-Advisor-AI
+# Law-Advisor-AI
 A hackathon project from the team KraftKa. 
 This AI is useful to spread awarness about the rights of the people and prevent exploitation.
 Right now it is developed as a pilot project and is focus on the Civil Land disputes in Kokrajhar, Assam.
